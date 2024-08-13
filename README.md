@@ -4,7 +4,7 @@
 Ceci est une API simple pour la gestion de tâches. Elle permet d'ajouter, de récupérer, de mettre à jour et de supprimer des tâches.
 Vous pouvez recupérer le code souce en clonant le projet à l'aide de l'outil [git](https://git-scm.com/downloads) que vous devrez au préalable installer.
 ```bash
-git clone https://gitlab.com/share2871803/php-rest-api.git
+git clone https://github.com/tanguy-kabore/php-rest-api.git
 ```
 
 ## 1. Structure du code et Explication
